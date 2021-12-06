@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ggittasseruwagi
 - 👀 I’m interested in python 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on ethiical hacking
 - 📫 How to reach me ggittasseruwagi6779@gmail.com
 
