@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ggittasseruwagi
-- 👀 I’m interested in C++, Solidity, web3.
+- 👀 I’m interested python
 - 🌱 I’m currently looking at business rules for projects.
 - 💞️ I’m looking to collaborate on web3 development.
 
